@@ -1,0 +1,16 @@
+{
+  "STATE BANK OF INDIA": {
+    "KARNATAKA": {
+      "BANGALORE": {
+        "BANK": "STATE BANK OF INDIA",
+        "IFSC": "SBIN0000813",
+        "BRANCH": "BANGALORE",
+        "ADDRESS": "Some address, Bangalore",
+        "CONTACT": "080-22222222",
+        "CITY": "BANGALORE",
+        "DISTRICT": "BANGALORE",
+        "STATE": "KARNATAKA"
+      }
+    }
+  }
+}
